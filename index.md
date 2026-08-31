@@ -1,3 +1,9 @@
+title: Ranking Signal Analysis
+description: An analysis of webpage ranking signals
+theme: jekyll-theme-cayman
+
+
+
 ## 1. Question
 
 *The research question and the decision it supports.*
@@ -275,3 +281,8 @@ Small improvements to relevant pages may potentially produce more value than att
 The analysis suggests that no individual feature should be used as the sole basis for prioritisation.
 
 A combined ranking approach is preferable because webpage performance is influenced by multiple interacting signals.
+
+
+## Acknowledgments & Data Credit
+
+Built on the **FlyRank ML Internship dataset**. Data source: [FlyRank](https://flyrank.ai).
